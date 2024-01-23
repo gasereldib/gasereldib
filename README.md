@@ -3,7 +3,7 @@
 <h3 align="center">Artificial Intelligence engineer & Data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/kjXMU4dl8lAAAAAC/hello-world.gif">
 
-- 🌱 I’m currently learning **SQL and PowerBI**
+- 🌱 I’m currently learning **SQL, PowerBI and Full-Stack development**
 
 - 💬 Ask me about **My studies and my backgrounds**
 
